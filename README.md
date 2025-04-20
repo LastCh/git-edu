@@ -1,2 +1,0 @@
-# git-edu
- Hw git
